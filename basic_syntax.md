@@ -92,8 +92,5 @@ single-line, muti-line 주석 모두 지원합니다.
 ```
 
 Block 주석은 nested 될 수 있습니다.
-```kotlin
-/* The comment starts here
-/* contains a nested comment */     
-and ends here. */
-```
+
+![](basic_syntax/basic_syntax-b3f1a.png)
